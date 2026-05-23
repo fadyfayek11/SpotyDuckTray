@@ -159,4 +159,4 @@ public sealed class HotkeyManager : NativeWindow, IDisposable
     private static extern bool UnregisterHotKey(IntPtr hWnd, int id);
 }
 
-// Made with Bob
+
