@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rfYtGD59/kE=",
+  "dgSpecHash": "fdWSqNZWiDg=",
   "success": true,
-  "projectFilePath": "E:\\part time\\SpotyDuckTray\\SpotyDuckTray.csproj",
+  "projectFilePath": "E:\\SpotyDuckTray\\SpotyDuckTray.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\naudio\\2.3.0\\naudio.2.3.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\naudio.asio\\2.3.0\\naudio.asio.2.3.0.nupkg.sha512",

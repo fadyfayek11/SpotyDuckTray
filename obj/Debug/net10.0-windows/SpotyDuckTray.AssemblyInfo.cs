@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpotyDuckTray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5aef2337aa070b5dbabcaa419f899542477a957")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d21450528c73c04cdd6f4bfe20fc28190138b4f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpotyDuckTray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpotyDuckTray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

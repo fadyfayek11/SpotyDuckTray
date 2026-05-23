@@ -11,3 +11,56 @@
 [2026-05-24 00:10:34.252 +03:00] [INFO] Application starting
 [2026-05-24 00:10:34.367 +03:00] [INFO] Audio monitor initialized
 [2026-05-24 00:10:35.174 +03:00] [INFO] Tray context initialized
+[2026-05-24 00:36:12.478 +03:00] [INFO] Hotkey manager disposed
+[2026-05-24 00:36:12.482 +03:00] [INFO] Audio monitor disposed
+[2026-05-24 00:36:12.482 +03:00] [INFO] Tray context disposed
+[2026-05-24 00:36:12.485 +03:00] [INFO] Application stopped
+[2026-05-24 00:39:14.036 +03:00] [INFO] Application starting
+[2026-05-24 00:39:14.094 +03:00] [INFO] Audio monitor initialized
+[2026-05-24 00:39:14.149 +03:00] [FATAL] Unhandled exception from Main
+System.IO.FileNotFoundException: Could not find file 'E:\part time\SpotyDuckTray\logo.ico'.
+File name: 'E:\part time\SpotyDuckTray\logo.ico'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.Drawing.Icon..ctor(String fileName, Int32 width, Int32 height)
+   at SpotyDuckTray.TrayAppContext..ctor() in E:\part time\SpotyDuckTray\src\UI\TrayAppContext.cs:line 90
+   at SpotyDuckTray.Program.Main() in E:\part time\SpotyDuckTray\Program.cs:line 33
+[2026-05-24 00:40:14.453 +03:00] [INFO] Application starting
+[2026-05-24 00:40:14.497 +03:00] [INFO] Audio monitor initialized
+[2026-05-24 00:40:14.623 +03:00] [FATAL] Unhandled exception from Main
+System.IO.FileNotFoundException: Could not find file 'E:\part time\SpotyDuckTray\bin\Debug\net10.0-windows\logo.ico'.
+File name: 'E:\part time\SpotyDuckTray\bin\Debug\net10.0-windows\logo.ico'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.Drawing.Icon..ctor(String fileName, Int32 width, Int32 height)
+   at SpotyDuckTray.TrayAppContext..ctor() in E:\part time\SpotyDuckTray\src\UI\TrayAppContext.cs:line 90
+   at SpotyDuckTray.Program.Main() in E:\part time\SpotyDuckTray\Program.cs:line 33
+[2026-05-24 00:42:00.503 +03:00] [INFO] Application starting
+[2026-05-24 00:42:00.534 +03:00] [INFO] Audio monitor initialized
+[2026-05-24 00:42:00.593 +03:00] [FATAL] Unhandled exception from Main
+System.IO.FileNotFoundException: Could not find file 'E:\part time\SpotyDuckTray\logo.ico'.
+File name: 'E:\part time\SpotyDuckTray\logo.ico'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize, Nullable`1 unixCreateMode)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at System.Drawing.Icon..ctor(String fileName, Int32 width, Int32 height)
+   at SpotyDuckTray.TrayAppContext..ctor() in E:\part time\SpotyDuckTray\src\UI\TrayAppContext.cs:line 90
+   at SpotyDuckTray.Program.Main() in E:\part time\SpotyDuckTray\Program.cs:line 33
+[2026-05-24 00:42:45.844 +03:00] [INFO] Application starting
+[2026-05-24 00:42:45.873 +03:00] [INFO] Audio monitor initialized
+[2026-05-24 00:42:45.938 +03:00] [INFO] Tray context initialized
+[2026-05-24 00:43:43.550 +03:00] [INFO] Application starting
+[2026-05-24 00:43:43.610 +03:00] [INFO] Audio monitor initialized
+[2026-05-24 00:43:43.683 +03:00] [INFO] Tray context initialized
+[2026-05-24 00:43:53.110 +03:00] [INFO] Hotkey manager disposed
+[2026-05-24 00:43:53.115 +03:00] [INFO] Audio monitor disposed
+[2026-05-24 00:43:53.116 +03:00] [INFO] Tray context disposed
+[2026-05-24 00:43:53.119 +03:00] [INFO] Application stopped

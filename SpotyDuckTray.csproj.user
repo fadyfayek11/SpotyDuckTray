@@ -6,7 +6,7 @@
         </Compile>
     </ItemGroup>
 	<ItemGroup>
-		<Content Include="logo.ico">
+		<Content Include="Resources\logo.ico">
 			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
 		</Content>
 	</ItemGroup>

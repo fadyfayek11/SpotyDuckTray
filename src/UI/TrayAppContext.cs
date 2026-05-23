@@ -89,7 +89,7 @@ public sealed class TrayAppContext : ApplicationContext
 
         _trayIcon = new NotifyIcon
         {
-            Icon = new Icon("logo.ico"),
+            Icon = new Icon("Resources/logo.ico"),
             Visible = true,
             Text = "Spoty Duck",
             ContextMenuStrip = menu

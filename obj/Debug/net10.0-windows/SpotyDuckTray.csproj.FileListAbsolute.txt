@@ -1,8 +1,6 @@
+E:\part time\SpotyDuckTray\bin\Debug\net10.0-windows\Resources\logo.ico
+E:\part time\SpotyDuckTray\bin\Debug\net10.0-windows\src\Configuration\appsettings.json
 E:\part time\SpotyDuckTray\bin\Debug\net10.0-windows\SpotyDuckTray.exe
-E:\part time\SpotyDuckTray\bin\Debug\net10.0-windows\SpotyDuckTray.deps.json
-E:\part time\SpotyDuckTray\bin\Debug\net10.0-windows\SpotyDuckTray.runtimeconfig.json
-E:\part time\SpotyDuckTray\bin\Debug\net10.0-windows\SpotyDuckTray.dll
-E:\part time\SpotyDuckTray\bin\Debug\net10.0-windows\SpotyDuckTray.pdb
 E:\part time\SpotyDuckTray\bin\Debug\net10.0-windows\NAudio.dll
 E:\part time\SpotyDuckTray\bin\Debug\net10.0-windows\NAudio.Asio.dll
 E:\part time\SpotyDuckTray\bin\Debug\net10.0-windows\NAudio.Core.dll
@@ -19,7 +17,35 @@ E:\part time\SpotyDuckTray\obj\Debug\net10.0-windows\SpotyDuc.8FD314C3.Up2Date
 E:\part time\SpotyDuckTray\obj\Debug\net10.0-windows\SpotyDuckTray.dll
 E:\part time\SpotyDuckTray\obj\Debug\net10.0-windows\refint\SpotyDuckTray.dll
 E:\part time\SpotyDuckTray\obj\Debug\net10.0-windows\SpotyDuckTray.pdb
+E:\part time\SpotyDuckTray\bin\Debug\net10.0-windows\SpotyDuckTray.deps.json
+E:\part time\SpotyDuckTray\bin\Debug\net10.0-windows\SpotyDuckTray.runtimeconfig.json
+E:\part time\SpotyDuckTray\bin\Debug\net10.0-windows\SpotyDuckTray.dll
+E:\part time\SpotyDuckTray\bin\Debug\net10.0-windows\SpotyDuckTray.pdb
 E:\part time\SpotyDuckTray\obj\Debug\net10.0-windows\SpotyDuckTray.genruntimeconfig.cache
 E:\part time\SpotyDuckTray\obj\Debug\net10.0-windows\ref\SpotyDuckTray.dll
-E:\part time\SpotyDuckTray\bin\Debug\net10.0-windows\logo.ico
-E:\part time\SpotyDuckTray\bin\Debug\net10.0-windows\appsettings.json
+E:\SpotyDuckTray\bin\Debug\net10.0-windows\Resources\logo.ico
+E:\SpotyDuckTray\bin\Debug\net10.0-windows\src\Configuration\appsettings.json
+E:\SpotyDuckTray\bin\Debug\net10.0-windows\SpotyDuckTray.exe
+E:\SpotyDuckTray\bin\Debug\net10.0-windows\SpotyDuckTray.deps.json
+E:\SpotyDuckTray\bin\Debug\net10.0-windows\SpotyDuckTray.runtimeconfig.json
+E:\SpotyDuckTray\bin\Debug\net10.0-windows\SpotyDuckTray.dll
+E:\SpotyDuckTray\bin\Debug\net10.0-windows\SpotyDuckTray.pdb
+E:\SpotyDuckTray\bin\Debug\net10.0-windows\NAudio.dll
+E:\SpotyDuckTray\bin\Debug\net10.0-windows\NAudio.Asio.dll
+E:\SpotyDuckTray\bin\Debug\net10.0-windows\NAudio.Core.dll
+E:\SpotyDuckTray\bin\Debug\net10.0-windows\NAudio.Midi.dll
+E:\SpotyDuckTray\bin\Debug\net10.0-windows\NAudio.Wasapi.dll
+E:\SpotyDuckTray\bin\Debug\net10.0-windows\NAudio.WinForms.dll
+E:\SpotyDuckTray\bin\Debug\net10.0-windows\NAudio.WinMM.dll
+E:\SpotyDuckTray\obj\Debug\net10.0-windows\SpotyDuckTray.csproj.AssemblyReference.cache
+E:\SpotyDuckTray\obj\Debug\net10.0-windows\SpotyDuckTray.GeneratedMSBuildEditorConfig.editorconfig
+E:\SpotyDuckTray\obj\Debug\net10.0-windows\SpotyDuckTray.AssemblyInfoInputs.cache
+E:\SpotyDuckTray\obj\Debug\net10.0-windows\SpotyDuckTray.AssemblyInfo.cs
+E:\SpotyDuckTray\obj\Debug\net10.0-windows\SpotyDuckTray.csproj.CoreCompileInputs.cache
+E:\SpotyDuckTray\obj\Debug\net10.0-windows\SpotyDuckTray.sourcelink.json
+E:\SpotyDuckTray\obj\Debug\net10.0-windows\SpotyDuc.8FD314C3.Up2Date
+E:\SpotyDuckTray\obj\Debug\net10.0-windows\SpotyDuckTray.dll
+E:\SpotyDuckTray\obj\Debug\net10.0-windows\refint\SpotyDuckTray.dll
+E:\SpotyDuckTray\obj\Debug\net10.0-windows\SpotyDuckTray.pdb
+E:\SpotyDuckTray\obj\Debug\net10.0-windows\SpotyDuckTray.genruntimeconfig.cache
+E:\SpotyDuckTray\obj\Debug\net10.0-windows\ref\SpotyDuckTray.dll
